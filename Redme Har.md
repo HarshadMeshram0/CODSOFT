@@ -3,7 +3,7 @@
 ![Header Banner](https://via.placeholder.com/1200x400?text=CodSoft+UI/UX+Projects+by+Harshad+Meshram)
 
 ## 👋 Introduction
-Hello! I'm **Harshad Meshram**, a passionate UI/UX designer. This repository showcases my design work during the **CodSoft Internship Program (June 2024)**. Each project demonstrates my skills in user research, interface design, and prototyping.
+Hello! I'm **Harshad Meshram**, a passionate UI/UX designer. This repository showcases my design work during the **CodSoft Internship Program (June 2025)**. Each project demonstrates my skills in user research, interface design, and prototyping.
 
 ## 🎯 Projects Overview
 
@@ -39,4 +39,4 @@ Hello! I'm **Harshad Meshram**, a passionate UI/UX designer. This repository sho
 | **Research** | Google Forms, Hotjar |
 | **Assets** | Unsplash, Flaticon |
 
-## 📂 Repository Structure
+Thank You 
